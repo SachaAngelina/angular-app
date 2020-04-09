@@ -1,0 +1,10 @@
+.status-online {
+  margin: 5px;
+  color: #0aac26;
+  background-color: #c7fac5;
+}
+.status-offline {
+  margin: 5px;
+  color: #ff334b;
+  background-color: #fdcbd4;
+}
